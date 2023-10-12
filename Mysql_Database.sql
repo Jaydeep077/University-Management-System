@@ -23,7 +23,7 @@ create table Faculty_info
                    DOB varchar(15),
                    Email varchar(40),
                    Phone_no varchar(10),
-                   Address varchar(100)
+                   Address varchar(100),
                    primary key(Emp_id));
 /*subject table*/
 create table subject
